@@ -38,6 +38,7 @@ a:hover {
 .ctext {
   color: #c2815d;
   font-size: 1em;
+  font-weight: bold;
 }
 
 /* */
@@ -135,6 +136,7 @@ a:hover {
   color: #c2815d;
   font-size: 1em;
   text-align: center;
+  font-weight: bold;
 } /* Episode Description summary text */
 
 .desc {
