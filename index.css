@@ -1,0 +1,46 @@
+body {
+  background-color: #171b0c;
+  font-family: "Courier New", monospace;
+  width: auto;
+  text-align: center;
+}
+
+p {
+margin: 0;
+}
+
+a:link {
+  color: #76c400;
+  text-decoration: none;
+}
+
+a:visited{
+  color: #76c400;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #447100;
+  text-decoration: none;
+}
+
+.header {
+  background-color: #171b0c;
+  margin: -8px -8px -8px -8px;
+  padding: 100px;
+}
+
+.title {
+  font-size: 7em;
+  font-weight: bold;
+  color: #76c400;
+}
+
+.subtitle {
+  font-size: 4em;
+  color: #447100;
+}
+
+.links {
+  font-size: 2em;
+}
