@@ -1,0 +1,243 @@
+/* Tags */
+
+body {
+  background-color: #222534;
+  font-family: "Times New Roman", Times, serif;
+  width: auto;
+}
+
+/* */
+
+a:link {
+  color: #c2aea3;
+  text-decoration: none;
+}
+
+a:visited{
+  color: #c2aea3;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #aa988f;
+  text-decoration: none;
+}
+
+/* */
+
+/* Classes */
+
+.bodycolor {
+  background-color: #3a3f58;
+  border-style: solid hidden solid hidden;
+  border-color: #c2815d;
+  margin-left: -8px;
+  margin-right: -8px;
+}
+
+.ctext {
+  color: #c2815d;
+  font-size: 1em;
+}
+
+/* */
+
+.header {
+  background-color: #222534;
+  font-size: 3.5em;
+  font-weight: bold;
+  text-align: center;
+  margin-top: -0.5em;
+  margin-bottom: -0.5em;
+}
+
+.tinylogo {
+  width: 40px;
+  height: 40px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.headerlink:link {
+  color: #c2aea3;
+  text-decoration: none;
+}
+
+.headerlink:visited{
+  color: #c2aea3;
+  text-decoration: none;
+}
+
+.headerlink:hover {
+  color: #c2aea3;
+  text-decoration: none;
+}
+
+/* */
+
+.links {
+  font-size: 1.5em;
+  text-align: center;
+} /* Back, Prev, Next */
+
+.title {
+  color: #c2aea3;
+  font-size: 2.3em;
+  font-weight: bold;
+  text-align: center;
+}
+
+.subtitle {
+  color: #aa988f;
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.description {
+  text-align: center;
+  color: #aa988f;
+  font-size: 0.7em;
+  margin-top: -1.5em;
+} /* Smaller version of subtitle, for home page */
+
+/* */
+
+.episodes {
+  font-size: 1.5em;
+  margin: auto;
+  text-align: center;
+}
+
+.eptable {
+  text-align: center;
+  margin: auto;
+  width: 95%;
+  max-width: 35em;
+}
+
+.eptable tr:nth-child(even) {
+  background-color: #525a7e;
+}
+
+.eptable tr:nth-child(odd) {
+  background-color: #464c6b;
+}
+
+.sub {
+  font-size: 0.7em;
+  color: #aa988f;
+  width: 8em;
+} /* Makes the left and right table columns the same size */
+
+/* */
+
+.sum {
+  color: #c2815d;
+  font-size: 1em;
+  text-align: center;
+} /* Episode Description summary text */
+
+.desc {
+  color: #aa988f;
+  font-size: 1em;
+  max-width: 30em;
+  margin: auto;
+} /* Episode Description text */
+
+/* */
+
+.transcript {
+  max-width: 40em;
+  margin-top: 1em;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  padding-left: 5em;
+  padding-right: 5em;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  background-color: #464c6b;
+  border-style: solid;
+  border-color: #525a7e;
+  font-family: "Courier New", monospace;
+}
+
+.name {
+  font-size: 1.5em;
+  color: #d9c3b7;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  margin-left: -40px;
+  text-transform: uppercase;
+}
+
+.dialogue {
+  font-size: 1.5em;
+  color: #c2aea3;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.soundcue {
+  font-size: 1.5em;
+  color: #aa988f;
+  font-style: italic;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.lrmarker {
+  font-size: 1.5em;
+  color: #c2815d;
+  font-weight: bold;
+  margin-left: -60px;
+  margin-right: 7px;
+}
+
+.dialink:link {
+  color: #c2815d;
+  text-decoration: none;
+}
+
+.dialink:visited{
+  color: #c2815d;
+  text-decoration: none;
+}
+
+.dialink:hover {
+  color: #8e5e44;
+  text-decoration: none;
+}
+
+/* */
+
+.centertext {
+  text-align: center;
+  max-width: 40em;
+  margin: auto;
+}
+
+.date {
+  color: #c2815d;
+  font-size: 0.7em;
+}
+
+.update {
+  color: #c2aea3;
+  font-size: 1em;
+}
+
+/* */
+
+.footer {
+  background-color: #222534;
+  font-size: 1em;
+  color: #aa988f;
+  text-align: center;
+  margin-top: 2em;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 40em;
+}
